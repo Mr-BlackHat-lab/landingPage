@@ -1,12 +1,13 @@
 import React from "react";
+import '../CssOfComponents/headerH.css'
 
 function HeaderOfHome() {
 
 
     return (
-      <>
-        header
-      </>
+        <div>
+            <div className="header">Food Heaven</div>
+        </div>
     )
   }
   

@@ -1,0 +1,21 @@
+*{
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+#navber{
+    background-color: #1b1b1b5b;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: end;
+}
+.contt{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+}
+.contt:hover{
+    background-color: #383838;
+}
+

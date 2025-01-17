@@ -1,11 +1,17 @@
 import React from "react";
+import '../CssOfComponents/navbar.css';
 
 function Navbar() {
 
 
     return (
       <>
-        navbar
+        <nav id="navber">
+            <a className="contt" href="#">Home</a>
+            <a className="contt" href="#">Menu</a>
+            <a className="contt" href="#">About</a>
+            <a className="contt" href="#">contact</a>
+        </nav>
       </>
     )
   }
