@@ -3,3 +3,8 @@
     height: 920px;
     color: white;
 }
+#TextOfpar{
+    text-align: left;
+    font-size: 20px;
+    padding-left: 1005px;
+}

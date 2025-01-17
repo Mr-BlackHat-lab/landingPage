@@ -6,7 +6,7 @@ function HeaderOfHome() {
 
     return (
         <div>
-            <div className="header">Food Heaven</div>
+            <div className="header">Nood Heaven</div>
         </div>
     )
   }
