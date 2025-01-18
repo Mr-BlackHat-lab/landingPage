@@ -1,12 +1,11 @@
 import React from 'react'
 
-function HeaderA() {
+function HeaderOfMenu() {
   return (
     <div>
-        about
-      
+      hello
     </div>
   )
 }
 
-export default HeaderA
+export default HeaderOfMenu
