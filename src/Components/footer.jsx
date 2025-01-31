@@ -1,7 +1,7 @@
 import React from "react";
 import '../CssOfComponents/footer.css'
 
-function Footer() {
+function Footer() { 
 
 
     return (
